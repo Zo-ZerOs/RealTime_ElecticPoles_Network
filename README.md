@@ -1,5 +1,5 @@
 # RealTime_ElecticPoles_Network
-🌐 Radio Transmitting Device: from the idea of Internet of Things (IoT) -> crafting an equipment, which driven by the Arduino language, designed to transfer data via Radio Transmission using the ESP32 Module
+🌐 Radio Transmitting Device: from the idea of Internet of Things (IoT) -> crafting an equipment, which driven by C++, designed to transfer data via Radio Transmission using the ESP32 Module
 
 The Kamnoetvidya Science Academy (KVIS) is a part of the Pawaangchan Project initiated by the Forest Plantation and Environmental Systems Institute, PTT Public Company Limited. It is located in Payubnai Subdistrict, Wangchan District, Rayong Province. Every student and staff member at the Kamnertvit School faces challenges of frequent power outages, especially during heavy rainfall or storms. A survey conducted among the public and the network of communities in Rayong Province revealed that power outages are a common issue faced by the local residents in various areas. Moreover, each time a power outage occurs, it takes a considerable amount of time for the power to be restored to normal. This is due to the fact that the repair process of the regional power distribution system only begins once a report of the outage is received.
 
